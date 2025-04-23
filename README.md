@@ -1,0 +1,1 @@
+# Qt-QML-Graphical-Effects-Blend-Mode
